@@ -1,0 +1,16 @@
+.dropzone .dz-preview .dz-remove {
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	z-index: 999;
+	color: rgba(200, 200, 200, 0.8)
+}
+
+.dropzone {
+	border: 2px dashed rgba(100, 100, 100, 0.3);
+	border-radius: 8px;
+}
+
+[v-cloak]{
+	display: none;
+}
